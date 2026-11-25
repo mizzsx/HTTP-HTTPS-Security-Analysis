@@ -221,3 +221,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# TLS certificates and private keys
+*.pem
+*.key
+*.crt
+*.pfx
+
+# University submission files
+*.docx
+*.pdf
+*.zip
